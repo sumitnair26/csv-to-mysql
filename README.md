@@ -25,7 +25,7 @@ This Node.js project converts multiple CSV files into MySQL-compatible SQL scrip
 2. Install dependencies:
 	`npm install`
 
-##Usage
+## Usage
 
 1. Place your CSV files in the csv directory.
 
@@ -35,7 +35,7 @@ This Node.js project converts multiple CSV files into MySQL-compatible SQL scrip
 	
 	`node convert_in_single_file.js`
 	
-##Directory Structure
+## Directory Structure
 
 		csv-to-mysql/
 		├── csv/            	  # Directory to store your input CSV files
