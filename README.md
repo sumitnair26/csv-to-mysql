@@ -38,7 +38,7 @@ This Node.js project converts multiple CSV files into MySQL-compatible SQL scrip
 ##Directory Structure
 
 		csv-to-mysql/
-		├── csv_files/            # Directory to store your input CSV files
+		├── csv/            	  # Directory to store your input CSV files
 		│   ├── file1.csv
 		│   ├── file2.csv
 		├── combined.sql          # Generated Single SQL script (output)
